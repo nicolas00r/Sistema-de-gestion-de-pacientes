@@ -22,7 +22,7 @@ Sigue estos pasos para comenzar:
 ### Funcionando correctamente:
 
 - Registrar pacientes, indicando su nombre, su edad y los síntomas presentados.
-- Asignar o modificar la prioridad de los pacientes, donde se seguirá respetando el orden de llegada a pesar de haber un cambio de prioridad.
+- Asignar o modificar la prioridad de los pacientes, donde si existe un cambio de prioridad, la lista de esta se reorganizará dependiendo de la hora de llegada del paciente.
 - Ver la lista de espera de pacientes, ordenada por prioridad y hora de llegada.
 - Atender al siguiente paciente, respetando el orden de prioridad y enseñando sus datos.
 - Mostrar la lista de pacientes según la prioridad indicada.
